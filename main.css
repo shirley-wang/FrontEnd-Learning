@@ -23,9 +23,11 @@ label[for=contactMethod], input[type=radio]
     vertical-align: top;
     color: white;
 }
+
 .leftIndicator{
     background-color: mediumvioletred;
 }
+
 .rightIndicator
 {
     background-color: purple;
